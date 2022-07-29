@@ -1,0 +1,5 @@
+1: git checkout -b newBranch
+2: fast forwards can only happen if there haven't been commits on the original branch while the new branch is being worked on.
+3: git checkout otherBranch
+4: git branch -d mergedBranch OR git branch -D unmergedBranch
+5: Merge conflicts happen when two merging files have conflicting additions.
